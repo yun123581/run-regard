@@ -1,7 +1,5 @@
- {
-  "pages": [
-    "pages/index/index"
-  ],
+{
+  "pages": ["pages/login/login", "pages/run/run", "pages/history/history"],
   "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
